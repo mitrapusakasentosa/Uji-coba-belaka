@@ -46,8 +46,6 @@ import {
   PlusIcon,
   ShieldCheckIcon,
   UserIcon,
-} from "@heroicons/react/16/solid";
-import {
   Cog6ToothIcon,
   HomeIcon,
   InboxIcon,
@@ -57,7 +55,8 @@ import {
   SparklesIcon,
   Square2StackIcon,
   TicketIcon,
-} from "@heroicons/react/20/solid";
+} from "@heroicons/react/24/solid";
+
 
 const App: React.FC = () => {
   const [phoneNumber, setPhoneNumber] = useState("");
